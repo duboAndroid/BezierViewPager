@@ -1,1 +1,1 @@
-include ':BezierViewPager', ':baseViewPager', ':ViewPagerTransition'
+include ':BezierViewPager', ':baseViewPager', ':ViewPagerTransition', ':MZBanner', ':mzbanner', ':MABanner'
