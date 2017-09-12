@@ -1,1 +1,1 @@
-include ':BezierViewPager', ':baseViewPager'
+include ':BezierViewPager', ':baseViewPager', ':ViewPagerTransition'
